@@ -1,0 +1,10 @@
+Hi! Please follow below instructions to use the convertor
+
+
+1.Download Lisa Traffic light data set from here : https://www.kaggle.com/mbornoe/lisa-traffic-light-dataset
+
+2.Extract zip file into LISA_Annotation/Data
+
+3.run python3 converter.py
+
+4.End of the process find the Yolo folder containing YOLO format dataset. 
